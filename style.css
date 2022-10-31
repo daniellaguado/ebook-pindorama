@@ -1,0 +1,346 @@
+.borde{
+    border: red 1px solid;
+}
+
+.bg_section-3{     
+    margin-top: -1%;
+}
+
+.biografia-nilson{
+    color:white; 
+    text-align:center;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+    font-weight: normal;
+    font-size: 1.4rem;
+    line-height: 2rem;
+}
+.btn-cta{
+    color: #b0cd49;
+    background-color: #357956;
+    border: 0;
+    border-radius: 8px;
+    padding: 3%;
+    width: 100%;    
+    font-weight: 700;
+}
+.btn-cta_hover :hover{
+    color:#803d11; 
+    background-color:#d7894b;
+    animation: pulse; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 1s; /* don't forget to set a duration! */
+}
+.btn-cta h5{
+    font-weight: 700;
+    font-size: 1.5rem;
+ }
+ .btn-cta1{
+    color: #357956;
+    background-color: #b0cd49;
+    border: 0;
+    border-radius: 10px;
+    padding: 2%;
+    width: 80%;
+ }
+ .btn-cta1_hover :hover{
+    color:#803d11; 
+    background-color:#d7894b;
+    animation: pulse; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 1s; /* don't forget to set a duration! */
+}
+ .btn-cta1 h5{
+    font-weight: 700;
+    font-size: 1.5rem;
+ }
+ .btn-cta2{
+    color: #b0cd49;
+    background-color: #357956;
+    border: 0;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 4% auto;
+    width: 100%;
+ }
+ .btn-cta2_hover :hover{
+    color:#803d11; 
+    background-color:#d7894b;
+    animation: pulse; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 1s; /* don't forget to set a duration! */
+}
+ .btn-cta2 h5{
+    font-weight: 700;
+ }
+ body{
+    text-shadow: 1px 1px 2px #71832E;
+}
+ .centro{
+    margin:0 auto;
+}
+.center-form{
+    margin: 0 auto;
+  }
+  
+.conheca-nilson{
+    position: absolute;
+    margin-top: -40%;
+    margin-left: 41%;
+}
+.conheca-nilson h5{
+    color:#b0cd49; 
+    font-weight: 700;
+    font-size: 1.7rem;
+ }
+.conheca-nilson h2{
+    color:#357956; 
+    font-weight: 700;
+    font-size: 2.3rem;
+}
+.div-center-youtube{
+    margin: 0px auto;
+    border: 10px solid #b0cd49;
+    border-radius: 50px;
+    overflow: hidden;
+}
+.header{
+    background: url("img/bg-section-1.jpg") center bottom;
+}
+input{
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px black solid;
+  }
+.list-group{
+    text-align: center;
+    color: white;
+    font-size: 1.9rem;
+    font-weight: 400;
+    line-height: 2rem;
+}
+.list-group h5{
+    font-size: 1.9rem;
+    font-weight: 400;
+    
+}
+.logo-footer{
+    margin: 0 auto;
+    padding: 10%;
+}
+.borde{
+    border: red 1px solid;
+}
+button[type="submit"]{
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    margin: 6% 0 6% 0;
+    height: 40px;
+    background-color: #357956;
+    color: #b0cd49;
+    font-weight: bold;
+  
+  }
+  button[type="submit"]:hover{
+      color:#803d11; 
+      background-color:#d7894b;
+}
+
+.modal-title {
+    margin-left:25%;
+}
+.nr-texto_nilson{
+    position:absolute;
+     margin-top:15%;
+      margin-left:-15%;
+}
+.nr-texto_nilson h2{
+    color:#357956; 
+    font-weight: 700;
+     font-size: 2.5rem;
+}
+.nr-texto_nilson h5{
+    color:black; 
+    font-weight: 700;
+     font-size: 2rem;
+}
+.p-verde1{
+    color: #357956;
+    text-align: center;
+    font-weight: 700;
+    padding: 1.5rem 0;
+    font-size: 2.6rem;
+ }
+ .p-verde2{
+    color: #357956;
+    text-align: center;
+    font-weight: 700;
+    padding: 8%;
+    font-size: 2.6rem;
+
+ }
+.p-verde3{
+    color: #357956;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2.8rem;
+    padding: 3%;
+ }
+.r-img_footer{
+    margin-top: 10rem;
+}
+
+section{
+    margin-top: -1px;
+}
+svg:hover{
+    fill: #d7894b;
+}
+.section-about-pc{
+    background: url(img/nilson-vista-computador.jpg) no-repeat top left;
+    background-size: 100%;
+    height:30vw;
+}
+.section-depoimentos{
+    background-color:#b0cd49;
+}
+.section-ebook{
+    background-color: #357956;
+    padding: 2rem 0 0 0;
+}
+.section-footer{
+    background-color:#abd346;
+}
+.section-spacer{
+    padding: 2rem 0 0 0;
+    background-color:#b0cd49;
+}
+.texto-banner h5{
+    text-align: center;
+    color: white;
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+.texto-compra{
+    text-align: center;
+    padding: 1rem;
+}
+.texto-compra h5{
+    color: white;
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+.texto-compra h2{
+    color:  #b0cd49;
+    font-size: 2.8rem;
+    font-weight: 700;
+} 
+.texto-depoimentos{
+    color: #357956;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2.8rem;
+    margin-top: -5vw;
+    /* padding: 3%; */
+ }
+.texto-footer h5{
+    color: gray;
+    text-align: center;
+    font-weight: normal;
+    font-size: 1.4rem;
+}
+.video-youtube{
+
+    padding: 2rem 0 56.25% 0;
+    position: relative;
+}
+.video-youtube iframe{
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+}
+
+
+
+ @media (max-width: 576px) {
+    .biografia-nilson{
+        font-size: 1.3rem;
+    
+    }
+    .btn-cta1{
+        width: 100%;
+    }
+    .list-group{
+        font-size: 1.3rem;
+    }
+    .list-group h5{
+        font-size: 1.3rem;
+    }
+    .modal-title {
+        margin-left:15%;
+    }
+    .p-verde1{
+        font-size: 1.3rem;
+    }
+    .p-verde2{
+        font-size: 1.6rem;
+    }
+    .p-verde3{
+        font-size: 2rem;
+    }
+    .r-img_footer{
+        margin-top: 10rem;
+    }
+    .section-footer{
+        background-color:#c7e0f5;
+    }
+     .texto-compra h5{
+         font-size: 1.3rem;
+    }
+     .texto-compra h2{
+         font-size: 2rem;
+    } 
+    .texto-depoimentos{
+        font-size: 1.3rem;
+     }
+    .texto-footer h5{
+        font-size: 1.3rem;
+    }
+ }
+  @media (max-width: 768px) {
+    .section-footer{
+        background-color:#c7e0f5;
+    }
+}
+@media (max-width: 988px) {
+    .section-footer{
+        background-color:#c7e0f5;
+    }
+    .biografia-nilson{
+    line-height: 1.8rem;
+    }
+    .list-group{
+        line-height: 1.8rem;
+    }
+}
+
+
+@media (max-width: 1140px) {
+.nr-texto_nilson{
+     margin-top:12%;
+     margin-left:-19%;
+
+    }
+}
+
+ @media (max-width: 1366px) {
+    .nr-texto_nilson{
+         margin-top:12%;
+         margin-left:-20%;
+    
+    }
+}
+
+     
+ 
